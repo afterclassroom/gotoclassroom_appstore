@@ -13,4 +13,13 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require paloma
+//= require routes
+//= require controllers
+//= require modernizr.custom
+//= require bootstrap.min
+//= require custom
+//= require angle.slider
+//= require classie
+//= require tiltSlider
+//= require jquery.validate

@@ -55,4 +55,6 @@ Rails.application.routes.draw do
   #   end
 
   resources :applications
+  get 'earnings' => 'applications#earnings'
+  get 'statement' => 'applications#statement'
 end
